@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left-side-bar{
+    width: 15%;
+    height: 100vh;
+    position: fixed;
+    overflow-y: scroll ;
+}
+.right-side{
+    margin-left: 15%;
+    width: 85%;
+
+}
+.left-side-first >ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.left-side-first >ul>li{
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+}   
+.left-side-first >ul>li>a{
+    display: block;
+    text-decoration: none;
+    color: steelblue;
+}
+.left-side-first >ul>li>a:hover{
+    transform: scale(1.09);
+} 

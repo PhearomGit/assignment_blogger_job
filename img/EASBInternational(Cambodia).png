@@ -1,0 +1,142 @@
+ <!DOCTYPE HTML>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+				<title>EASB International (Cambodia) Pte. Ltd.</title>
+				<meta name="description" content="East Asia Management University (EAMU) is an international university from Singapore with a city campus located in Phnom Penh. It is licensed and authorised by...">
+				<meta name="google-site-verification" content="..." />
+				<meta property="og:url" content="https://www.bongthom.com/employer_detail/view_details_1858.html" />
+				<meta property="og:title" content="EASB International (Cambodia) Pte. Ltd." />
+				<meta property="og:description" content="East Asia Management University (EAMU) is an international university from Singapore with a city campus located in Phnom Penh. It is licensed and authorised by..." />
+				<meta property="og:image" content="https://bongsrey.sgp1.cdn.digitaloceanspaces.com/library/6185/images/" />
+				<meta property="og:locale" content="km_KH" />
+				<meta property="fb:app_id" content="189338635011289" />
+				<meta property="og:site_name" content="BongThom.com" />
+			    <meta name="csrf-token" content="306c7f095e520a8c6e4710d3dc364229">
+    <link rel="apple-touch-icon" href="https://www.bongthom.com/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.bongthom.com/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.bongthom.com/favicons/favicon-32x32.png">
+    <link rel="manifest" href="https://www.bongthom.com/favicons/site.webmanifest">
+    <link rel="mask-icon" href="https://www.bongthom.com/favicons/safari-pinned-tab.svg" color="#0D4E96">
+    <meta name="msapplication-TileColor" content="#0D4E96">
+    <meta name="theme-color" content="#0D4E96">
+            <link rel="stylesheet" href="https://www.bongthom.com/css/build/styles.bundle.css?version=1.9.1">
+
+</head>
+<body id="app-english" printing="false">
+<!--[if lte IE 9]>
+        <h3 style="position: fixed;z-index: 999;text-align: center;width: 100%;background-color: yellow;padding: 20px 0;">You're using an UNSUPPORTED version of Internet Explorer. Internet Explorer 9 or below is not supported.</h3>
+<![endif]-->    <div id="header-details"></div>
+<div id="search-company"></div>
+<div class="pnlContentWraper">
+	<section class="container">
+		<div class="space-xs"></div>
+		<div id="employer_details_page_header"></div>
+		<div id="employer_detail" style="background-color: #FFF; padding: 15px 15px 15px 15px;">
+			<div class="employer-header">
+				<div class="thumb employer-img">
+					<a href="https://www.bongthom.com/company_detail/view_details_1858.html" class="thumbnail">
+						<img class="companyLogo" src="https://bongsrey.sgp1.cdn.digitaloceanspaces.com/library/6185/images/thumbnail/5e01b15a4afb2.png" alt="EASB International (Cambodia) Pte. Ltd.">
+					</a>
+				</div>
+				<div class="employer-title">
+					<h1 class="title">EASB International (Cambodia) Pte. Ltd.</h1>
+				</div>
+			</div>
+			<div
+				style="height: 23px;"
+				class="chat-with-employer"
+				data-profile-id="1858"
+				data-profile-name="EASB International (Cambodia) Pte. Ltd."
+				data-profile-avatar="https://bongsrey.sgp1.cdn.digitaloceanspaces.com/library/6185/images/thumbnail/5e01b15a4afb2.png"
+			></div>
+			<div class="space-xs">&nbsp;</div>
+			<div class="employer-content">
+				<div class="p-general"> 
+					<div class="p-title" id="employer_description">
+						<h4>Employer Description</h4>
+					</div>
+					<div class="p-body gprofile-description">
+						<div class="ql-editor"><p>East Asia Management University (EAMU) is an international university from Singapore with a city campus located in Phnom Penh. It is licensed and authorised by the Cambodian government to deliver globally recognised university programs and courses for the benefits of Cambodians and support the nation’s economic and social developments.</p></div>					</div>
+				</div>
+				<div class="space-xs">&nbsp;</div>
+				<div class="p-general"> 
+					<div class="p-title" id="work_conditions">
+						<h4>Work Conditions</h4>
+					</div>
+					<div class="list-striped">
+						<div class="p-body"><div class="profile-nodata-label">Not applicable</div></div>					</div>
+				</div>
+				
+				<div class="space-xs">&nbsp;</div>
+				<div class="p-general"> 
+					<div class="p-title" id="link">
+						<h4>Link</h4>
+					</div>
+					<div class="p-body">
+						<div class="list-link">
+										<a href="http://www.eamu.edu.kh/" target="_blank" class="blue"><span class="fa fa-link" style="margin-right: 7px;"></span>www.eamu.edu.kh</a></div>					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="space-sm">&nbsp;</div>
+		<div id="job-by-company" data-id="1858"></div>
+	</section>
+</div>
+<div id="footer-com-details"></div><div id="chat-holder"></div>
+<div id="modal" class="modal" role="dialog" aria-labelledby="modal" tabindex="-1" style="display: none;"></div>
+<!-- Prompt a message in the browser if users disabled JS -->
+<noscript>Your browser does not support JavaScript!</noscript>
+<script>
+  var AUTH = { loggedIn: false };
+
+  var baseUrl = function(str) {
+    if (!str) str = '';
+    var base = 'https://www.bongthom.com/';
+    var segments = (str.charAt(0) === '/') ? str.slice(1, str.length) : str;
+    return base + segments;
+  }
+  var assetUrl = function(str) {
+      if (!str) str = '';
+      var base = 'https://bongsrey.sgp1.cdn.digitaloceanspaces.com/';
+
+    var segments = (str.charAt(0) === '/') ? str.slice(1, str.length) : str;
+    return base + segments;
+  }
+  var backUrl = function(str) {
+    if (!str) str = '';
+    var base = 'https://account.bongthom.com/';
+
+    var segments = (str.charAt(0) === '/') ? str.slice(1, str.length) : str;
+    return base + segments;
+  }
+  var secondUrl = function(str) {
+    var base = 'https://front.bongthom.com/';
+    var segments = (str.charAt(0) === '/') ? str.slice(1, str.length) : str;
+    return base + segments;
+  }
+  var siteLang = 'english';
+
+  var runningMessage = '';
+</script>
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-89808111-1'></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-89808111-1');
+    </script>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.en"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.4.1/es5-shim.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.1/es6-shim.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser-polyfill.min.js"></script>
+<script src="https://www.bongthom.com/js/jquery-3.1.1.min.js"></script>
+<script src="https://www.bongthom.com/js/bootstrap.min.js"></script>
+<script src="https://www.bongthom.com/js/build/global.bundle.js?version=1.9.1"></script>
+<script src="https://www.bongthom.com/js/build/app.bundle.js?version=1.9.1"></script>
+</body>
+</html>

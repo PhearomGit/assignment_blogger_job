@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.right-side{
+    margin-left: 15%;
+    padding: 10px;
+}
+.right-side-first{
+    margin-left: 15%;
+    padding: 10px;
+}

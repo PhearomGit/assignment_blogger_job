@@ -1,2 +1,3 @@
-# assignment_blogger_job
-assignment IT year 4 batch 15
+1. Database Name = job_blog.sql
+2. this project is inspired by (BongThom Website)
+3. this project builded in purpose for finding job.
